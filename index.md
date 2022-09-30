@@ -1,4 +1,6 @@
+# My First blog
+
 ---
-title: Welcome to my blog
+title: My first blog (for learning purpose)
 ---
 
